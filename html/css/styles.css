@@ -263,7 +263,7 @@ details ol {
     
     /* This is the background image/banner of the hero section*/
     .hero {
-        background-image: url("../image_index2/hero.jpg");
+        background-image: url("../../image_index2/hero.jpg");
         background-size: cover;
         background-position: right center;
         text-align: left;
